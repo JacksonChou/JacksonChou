@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Jackson Chou (he/him) and I'm an analytics professional within HR / People domain.  I'm a huge fan of R and enjoy building simple products for enablement.
+
 <!--
 **JacksonChou/JacksonChou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
