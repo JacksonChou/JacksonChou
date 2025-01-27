@@ -2,7 +2,8 @@
 
 My name is Jackson Chou (he/him) and I'm an analytics professional within HR / People domain.  I'm a huge fan of R and enjoy building simple products for enablement.
 
-
+![Static Badge](https://img.shields.io/badge/JACKSONCHOU.COM-green?style=for-the-badge&logoColor=2E8B57&color=royalblue&link=www.jacksonchou.com)
+![Static Badge](https://img.shields.io/badge/resume-green?style=for-the-badge&logoColor=2E8B57&color=2E8B57&link=www.jacksonchou.com%2Fresume)
 <a href="https://www.linkedin.com/in/jacksonchou/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 
 <!--
